@@ -12,6 +12,7 @@ Prerequsites:
 
 Planning:
 Keras -> Keras based FCN -> practice feedback concept 
+
 Keras/tensorflow -> cifar classification -> practice feedback concept
 
 feedback concept：RNN model, IEF model
